@@ -3,13 +3,11 @@ repo: status-gg
 
 sites:
   - name: LOLProsGG
-    url: https://www.lolrpso.gg
+    url: https://lolpros.gg
   - name: LOLPros NA
     url: https://na.lolpros.gg
   - name: LOLPros API
     url: https://api.lolpros.gg
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   cname: status.lolpros.gg
