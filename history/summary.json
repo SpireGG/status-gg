@@ -4,19 +4,19 @@
     "url": "https://lolpros.gg",
     "icon": "https://icons.duckduckgo.com/ip3/lolpros.gg.ico",
     "slug": "lol-pros-gg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 820,
-    "timeWeek": 976,
-    "timeMonth": 939,
-    "timeYear": 939,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 952,
+    "timeDay": 909,
+    "timeWeek": 988,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {
-      "2023-05-06": 0
+      "2023-05-06": 12
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 1396,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2023-05-06": 917,
+      "2023-05-06": 928,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
@@ -52,19 +52,19 @@
     "url": "https://api.lolpros.gg",
     "icon": "https://icons.duckduckgo.com/ip3/api.lolpros.gg.ico",
     "slug": "lol-pros-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 579,
-    "timeWeek": 538,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 618,
+    "timeDay": 999,
+    "timeWeek": 683,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2023-05-06": 0
+      "2023-05-06": 12
     }
   }
 ]
