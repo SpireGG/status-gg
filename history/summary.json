@@ -4,36 +4,40 @@
     "url": "https://lolpros.gg",
     "icon": "https://icons.duckduckgo.com/ip3/lolpros.gg.ico",
     "slug": "lol-pros-gg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 962,
-    "timeDay": 753,
-    "timeWeek": 836,
-    "timeMonth": 827,
-    "timeYear": 962,
-    "dailyMinutesDown": {}
+    "time": 960,
+    "timeDay": 625,
+    "timeWeek": 794,
+    "timeMonth": 817,
+    "timeYear": 960,
+    "dailyMinutesDown": {
+      "2023-11-05": 0
+    }
   },
   {
     "name": "LOLPros BR",
     "url": "https://br.lolpros.gg",
     "icon": "https://icons.duckduckgo.com/ip3/br.lolpros.gg.ico",
     "slug": "lol-pros-br",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 613,
-    "timeWeek": 715,
-    "timeMonth": 743,
-    "timeYear": 729,
-    "dailyMinutesDown": {}
+    "time": 724,
+    "timeDay": 539,
+    "timeWeek": 684,
+    "timeMonth": 735,
+    "timeYear": 724,
+    "dailyMinutesDown": {
+      "2023-11-05": 0
+    }
   },
   {
     "name": "LOLPros API",
