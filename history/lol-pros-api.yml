@@ -1,7 +1,7 @@
 url: https://api.lolpros.gg
-status: up
-code: 200
-responseTime: 551
-lastUpdated: 2024-03-24T23:14:07.267Z
+status: down
+code: 503
+responseTime: 268
+lastUpdated: 2024-03-25T13:44:16.392Z
 startTime: 2023-04-28T09:51:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
