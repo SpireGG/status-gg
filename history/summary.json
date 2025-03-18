@@ -6,9 +6,9 @@
     "slug": "lol-pros-gg",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "75.71%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "97.84%",
+    "uptimeDay": "76.45%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.82%",
     "time": 674,
     "timeDay": 1056,
@@ -16,7 +16,7 @@
     "timeMonth": 736,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2025-03-18": 202,
+      "2025-03-18": 192,
       "2025-03-17": 744,
       "2024-06-19": 19
     }
@@ -28,17 +28,17 @@
     "slug": "lol-pros-br",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "74.91%",
-    "uptimeWeek": "90.51%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "75.65%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "99.82%",
     "time": 687,
     "timeDay": 1299,
     "timeWeek": 1125,
     "timeMonth": 907,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2025-03-18": 202,
+      "2025-03-18": 192,
       "2025-03-17": 754,
       "2024-06-19": 18
     }
