@@ -6,6 +6,8 @@ sites:
     url: https://lolpros.gg
   - name: LOLPros BR
     url: https://br.lolpros.gg
+  - name: LOLPros NA
+    url: https://na.lolpros.gg
   - name: LOLPros API
     url: https://api.lolpros.gg
 
