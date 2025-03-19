@@ -50,10 +50,10 @@
     "slug": "lol-pros-na",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "55.59%",
-    "uptimeWeek": "55.59%",
-    "uptimeMonth": "55.59%",
-    "uptimeYear": "55.59%",
+    "uptimeDay": "62.38%",
+    "uptimeWeek": "62.38%",
+    "uptimeMonth": "62.38%",
+    "uptimeYear": "62.38%",
     "time": 1220,
     "timeDay": 1447,
     "timeWeek": 1447,
@@ -94,8 +94,7 @@
       "2024-04-07": 19,
       "2024-04-03": 57,
       "2024-03-29": 47,
-      "2024-03-25": 44,
-      "2024-03-19": 23
+      "2024-03-25": 44
     }
   }
 ]
