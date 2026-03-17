@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 639,
-    "timeDay": 371,
-    "timeWeek": 591,
-    "timeMonth": 554,
+    "time": 638,
+    "timeDay": 368,
+    "timeWeek": 543,
+    "timeMonth": 549,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2025-03-20": 165,
       "2025-03-19": 316,
-      "2025-03-18": 410,
-      "2025-03-17": 744
+      "2025-03-18": 410
     }
   },
   {
@@ -33,16 +32,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 753,
-    "timeDay": 742,
-    "timeWeek": 677,
-    "timeMonth": 649,
-    "timeYear": 810,
+    "time": 752,
+    "timeDay": 317,
+    "timeWeek": 599,
+    "timeMonth": 639,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2025-03-20": 172,
       "2025-03-19": 260,
-      "2025-03-18": 400,
-      "2025-03-17": 754
+      "2025-03-18": 400
     }
   },
   {
@@ -51,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/na.lolpros.gg.ico",
     "slug": "lol-pros-na",
     "status": "up",
-    "uptime": "62.08%",
+    "uptime": "62.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 838,
-    "timeDay": 725,
-    "timeWeek": 674,
-    "timeMonth": 623,
-    "timeYear": 755,
+    "time": 836,
+    "timeDay": 367,
+    "timeWeek": 651,
+    "timeMonth": 617,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2025-03-20": 220,
       "2025-03-19": 262,
@@ -79,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 574,
-    "timeDay": 569,
-    "timeWeek": 497,
-    "timeMonth": 456,
+    "timeDay": 548,
+    "timeWeek": 492,
+    "timeMonth": 461,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2026-02-09": 726,
