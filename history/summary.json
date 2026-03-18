@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.83%",
     "time": 638,
-    "timeDay": 368,
-    "timeWeek": 543,
-    "timeMonth": 549,
-    "timeYear": 662,
+    "timeDay": 442,
+    "timeWeek": 539,
+    "timeMonth": 542,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2025-03-20": 165,
-      "2025-03-19": 316,
-      "2025-03-18": 410
+      "2025-03-19": 316
     }
   },
   {
@@ -27,20 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/br.lolpros.gg.ico",
     "slug": "lol-pros-br",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 752,
-    "timeDay": 317,
-    "timeWeek": 599,
-    "timeMonth": 639,
-    "timeYear": 809,
+    "uptimeYear": "99.84%",
+    "time": 753,
+    "timeDay": 783,
+    "timeWeek": 654,
+    "timeMonth": 656,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2025-03-20": 172,
-      "2025-03-19": 260,
-      "2025-03-18": 400
+      "2025-03-19": 260
     }
   },
   {
@@ -49,20 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/na.lolpros.gg.ico",
     "slug": "lol-pros-na",
     "status": "up",
-    "uptime": "62.18%",
+    "uptime": "62.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 836,
-    "timeDay": 367,
-    "timeWeek": 651,
-    "timeMonth": 617,
+    "time": 835,
+    "timeDay": 804,
+    "timeWeek": 689,
+    "timeMonth": 629,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2025-03-20": 220,
-      "2025-03-19": 262,
-      "2025-03-18": 205
+      "2025-03-19": 262
     }
   },
   {
@@ -77,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 574,
-    "timeDay": 548,
-    "timeWeek": 492,
-    "timeMonth": 461,
+    "timeDay": 553,
+    "timeWeek": 504,
+    "timeMonth": 467,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2026-02-09": 726,
