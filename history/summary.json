@@ -41,7 +41,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/na.lolpros.gg.ico",
     "slug": "lol-pros-na",
     "status": "up",
-    "uptime": "76.52%",
+    "uptime": "76.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -58,20 +58,21 @@
     "url": "https://api.lolpros.gg",
     "icon": "https://icons.duckduckgo.com/ip3/api.lolpros.gg.ico",
     "slug": "lol-pros-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 451,
-    "timeDay": 529,
-    "timeWeek": 438,
-    "timeMonth": 471,
+    "time": 450,
+    "timeDay": 394,
+    "timeWeek": 415,
+    "timeMonth": 464,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-02-09": 726,
-      "2026-02-08": 283
+      "2026-02-08": 283,
+      "2026-10-25": 0
     }
   }
 ]
