@@ -1,0 +1,7 @@
+{
+  "service": "gopros-updater",
+  "env": "staging",
+  "version": "staging",
+  "sha": "0e1bc01f362355d47af160310b3d505c52b38ce2",
+  "deployed_at": "2026-10-31T11:16:47Z"
+}
