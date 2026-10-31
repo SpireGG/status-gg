@@ -3,3 +3,4 @@
 | Service | Environment | Version | Commit | Deployed at (UTC) |
 | --- | --- | --- | --- | --- |
 | gopros-updater | staging | staging | `0e1bc01` | 2026-10-31T11:16:47Z |
+| lolpros-api | staging | v5.3.1 | `4d550d2` | 2026-10-31T22:38:20Z |
