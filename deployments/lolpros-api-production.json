@@ -1,0 +1,7 @@
+{
+  "service": "lolpros-api",
+  "env": "production",
+  "version": "v5.3.1",
+  "sha": "4d550d2903f62178dc57f9222a3466c4c998fa44",
+  "deployed_at": "2026-11-01T00:34:26Z"
+}
