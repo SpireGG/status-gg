@@ -2,6 +2,7 @@
 
 | Service | Environment | Version | Commit | Deployed at (UTC) |
 | --- | --- | --- | --- | --- |
+| gopros-updater | staging | staging | `937ec89` | 2026-11-01T10:17:01Z |
 | gopros-updater | staging | staging | `637a541` | 2026-11-01T09:08:58Z |
 | gopros-updater | production | v1.7.0 | `f6fe047` | 2026-11-01T09:08:38Z |
 | gopros-updater | staging | staging | `e2d1f61` | 2026-11-01T00:47:21Z |
