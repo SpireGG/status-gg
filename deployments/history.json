@@ -2,6 +2,13 @@
   {
     "service": "lolpros-api",
     "env": "staging",
+    "version": "527d330",
+    "sha": "527d330f9953658e4be3cd93a2af1043b3dd69a0",
+    "deployed_at": "2026-11-01T22:52:34Z"
+  },
+  {
+    "service": "lolpros-api",
+    "env": "staging",
     "version": "v6.0.0",
     "sha": "6f7cb14e316deede428f922d4023ceefefd73678",
     "deployed_at": "2026-11-01T10:30:03Z"
