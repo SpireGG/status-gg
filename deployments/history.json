@@ -1,6 +1,13 @@
 [
   {
     "service": "gopros-updater",
+    "env": "production",
+    "version": "v1.7.0",
+    "sha": "f6fe0478c4cd604996721c7af9764f7b8769d070",
+    "deployed_at": "2026-11-01T09:08:38Z"
+  },
+  {
+    "service": "gopros-updater",
     "env": "staging",
     "version": "staging",
     "sha": "e2d1f6147c847749ed026a5dee59cfa000ede45e",
