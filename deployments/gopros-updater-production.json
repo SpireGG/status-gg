@@ -1,0 +1,7 @@
+{
+  "service": "gopros-updater",
+  "env": "production",
+  "version": "v1.6.1",
+  "sha": "460ccbb56e1f670b9b6150d58220e678a99b7ba5",
+  "deployed_at": "2026-11-01T00:37:07Z"
+}
