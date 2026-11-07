@@ -2,6 +2,7 @@
 
 | Service | Environment | Version | Commit | Deployed at (UTC) |
 | --- | --- | --- | --- | --- |
+| lolpros-api | staging | v8.0.0 | `76fa945` | 2026-11-07T12:29:04Z |
 | lolpros-api | production | v8.0.0 | `76fa945` | 2026-11-07T12:01:08Z |
 | gopros-updater | production | v1.12.1 | `6297879` | 2026-11-07T11:53:49Z |
 | gopros-updater | production | v1.11.1 | `20d5d0f` | 2026-11-06T10:06:01Z |
@@ -11,4 +12,3 @@
 | gopros-updater | staging | staging | `51b490b` | 2026-11-04T23:57:19Z |
 | lolpros-api | production | v7.0.1 | `e5fa6fa` | 2026-11-04T23:52:23Z |
 | gopros-updater | staging | staging | `8bfa95d` | 2026-11-04T23:48:41Z |
-| lolpros-api | staging | v7.0.1 | `e5fa6fa` | 2026-11-04T23:48:37Z |
