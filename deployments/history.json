@@ -1,5 +1,12 @@
 [
   {
+    "service": "gopros-updater",
+    "env": "production",
+    "version": "v1.14.0",
+    "sha": "896a94bb6d7908b674a5bd2b7286127dd0987361",
+    "deployed_at": "2026-11-12T23:31:02Z"
+  },
+  {
     "service": "lolpros-api",
     "env": "production",
     "version": "v9.2.0",
@@ -61,12 +68,5 @@
     "version": "6dfa0dc",
     "sha": "6dfa0dc85d2e0a18448dfb495ffe0c13053b5ae7",
     "deployed_at": "2026-11-12T10:22:10Z"
-  },
-  {
-    "service": "gopros-updater",
-    "env": "production",
-    "version": "v1.13.0",
-    "sha": "45cdafa51d9e69cd30cf95fb3c708f8207be76fe",
-    "deployed_at": "2026-11-09T18:46:01Z"
   }
 ]
