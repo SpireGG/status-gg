@@ -2,6 +2,7 @@
 
 | Service | Environment | Version | Commit | Deployed at (UTC) |
 | --- | --- | --- | --- | --- |
+| lolpros-api | staging | d99a92a | `d99a92a` | 2026-11-12T11:22:00Z |
 | lolpros-api | staging | 3778b64 | `3778b64` | 2026-11-12T10:33:52Z |
 | lolpros-api | staging | 9d54ce5 | `9d54ce5` | 2026-11-12T10:26:24Z |
 | lolpros-api | staging | 6dfa0dc | `6dfa0dc` | 2026-11-12T10:22:10Z |
@@ -9,6 +10,5 @@
 | lolpros-api | staging | ed21ef7 | `ed21ef7` | 2026-11-12T10:10:59Z |
 | lolpros-api | production | v9.1.0 | `7f7e15a` | 2026-11-11T12:49:23Z |
 | lolpros-api | staging | v9.1.0 | `7f7e15a` | 2026-11-11T12:45:32Z |
-| lolpros-api | staging | 8ca3648 | `8ca3648` | 2026-11-11T12:23:32Z |
 | gopros-updater | production | v1.13.0 | `45cdafa` | 2026-11-09T18:46:01Z |
 | gopros-updater | staging | staging | `2652d07` | 2026-11-08T17:54:55Z |
