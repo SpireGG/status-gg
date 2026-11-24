@@ -3,6 +3,13 @@
     "service": "gopros-updater",
     "env": "staging",
     "version": "staging",
+    "sha": "4be525347fc5c6cfad39904757e67baa0c4f463f",
+    "deployed_at": "2026-11-24T22:17:15Z"
+  },
+  {
+    "service": "gopros-updater",
+    "env": "staging",
+    "version": "staging",
     "sha": "5a6d90914fb17546d9977c147302a864175dd186",
     "deployed_at": "2026-11-24T22:10:59Z"
   },
@@ -54,13 +61,6 @@
     "version": "v9.10.1",
     "sha": "225a58f49208913bb214dedaad1e380345fc864b",
     "deployed_at": "2026-11-23T13:23:59Z"
-  },
-  {
-    "service": "lolpros-api",
-    "env": "staging",
-    "version": "v9.10.1",
-    "sha": "225a58f49208913bb214dedaad1e380345fc864b",
-    "deployed_at": "2026-11-23T13:18:48Z"
   },
   {
     "service": "gopros-updater",
