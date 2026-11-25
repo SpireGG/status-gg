@@ -3,6 +3,13 @@
     "service": "gopros-updater",
     "env": "staging",
     "version": "staging",
+    "sha": "245fe06c0ccb610f16c69a01fdcc9c558e70553d",
+    "deployed_at": "2026-11-25T22:35:24Z"
+  },
+  {
+    "service": "gopros-updater",
+    "env": "staging",
+    "version": "staging",
     "sha": "9266ba3e6f9004792bcccc08eeeb0e7e4394d199",
     "deployed_at": "2026-11-25T07:32:34Z"
   },
@@ -61,12 +68,5 @@
     "version": "staging",
     "sha": "689c60eb76e6b1f7ac7f7587532184be537901e7",
     "deployed_at": "2026-11-24T11:53:40Z"
-  },
-  {
-    "service": "gopros-updater",
-    "env": "staging",
-    "version": "staging",
-    "sha": "59c8d531460076015fad1faaebfc81cd692122a2",
-    "deployed_at": "2026-11-24T11:47:41Z"
   }
 ]
