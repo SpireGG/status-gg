@@ -1,6 +1,13 @@
 [
   {
     "service": "lolpros-api",
+    "env": "production",
+    "version": "v9.11.3",
+    "sha": "ee747acf3748b66eadc9a9c03ab7aa9fc758c3c3",
+    "deployed_at": "2026-11-27T13:09:18Z"
+  },
+  {
+    "service": "lolpros-api",
     "env": "staging",
     "version": "v9.11.3",
     "sha": "ee747acf3748b66eadc9a9c03ab7aa9fc758c3c3",
@@ -61,12 +68,5 @@
     "version": "v1.16.1",
     "sha": "4be525347fc5c6cfad39904757e67baa0c4f463f",
     "deployed_at": "2026-11-24T22:18:09Z"
-  },
-  {
-    "service": "lolpros-api",
-    "env": "staging",
-    "version": "v9.11.1",
-    "sha": "6e2ecb2a81229260c65e20719a657ee1848581d1",
-    "deployed_at": "2026-11-24T22:17:35Z"
   }
 ]
